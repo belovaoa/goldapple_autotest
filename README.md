@@ -47,4 +47,4 @@ gradle clean -DremoteDriverUrl=https://%s:%s@selenoid.autotests.cloud/wd/hub/ -D
 
 https://user-images.githubusercontent.com/93153268/155363445-f48c1422-56f6-42ff-93eb-759d6bd38e75.mp4
 
-
+## ![](https://user-images.githubusercontent.com/93153268/155367183-41cbcd1f-c5f9-4de3-9e05-7f3153042393.png) Allure TestOps
