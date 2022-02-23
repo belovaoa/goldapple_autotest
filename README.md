@@ -43,3 +43,5 @@ gradle clean -DremoteDriverUrl=https://%s:%s@selenoid.autotests.cloud/wd/hub/ -D
 
 ![Allure Report_2](https://github.com/belovaoa/goldapple_autotest/blob/main/pictures/Allure%20Report_2.png)
 
+## ![Selenoid logo1](https://github.com/belovaoa/goldapple_autotest/blob/main/pictures/Selenoid%20logo1.png)
+
