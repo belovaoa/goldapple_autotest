@@ -39,7 +39,7 @@ gradle clean -DremoteDriverUrl=https://%s:%s@selenoid.autotests.cloud/wd/hub/ -D
 
 ## ![](pictures/allure-Report-logo.png) Allure Report in Jenkins
 
-![](pictures/Allure Report_1.png)
+![Allure Report_1](https://github.com/belovaoa/goldapple_autotest/blob/main/pictures/Allure%20Report_1.png)
 
 ![](pictures/Allure Report_2.png)
 
