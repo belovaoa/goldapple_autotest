@@ -1,19 +1,19 @@
-package com_belovva.o.helpers;
+package com_belovva.helpers;
 
 import com.codeborne.selenide.Configuration;
-import com_belovva.o.config.Project;
+import com_belovva.config.Project;
+import com_belovva.tests.TestBase;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-import static com_belovva.o.tests.TestBase.credentials;
 import static java.lang.String.format;
 
 public class DriverSettings {
 
     public static void configure() {
 
-        String selenoidUrl = credentials.URL();
-        String login = credentials.login();
-        String password = credentials.password();
+        String selenoidUrl = TestBase.credentials.URL();
+        String login = TestBase.credentials.login();
+        String password = TestBase.credentials.password();
         Configuration.remote = format("https://%s:%s@" + selenoidUrl, login, password);
         Configuration.browser = Project.config.browser();
         Configuration.browserVersion = Project.config.browserVersion();

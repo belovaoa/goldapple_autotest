@@ -1,6 +1,6 @@
-package com_belovva.o.tests;
+package com_belovva.tests;
 
-import com_belovva.o.helpers.DriverUtils;
+import com_belovva.helpers.DriverUtils;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import org.junit.jupiter.api.DisplayName;

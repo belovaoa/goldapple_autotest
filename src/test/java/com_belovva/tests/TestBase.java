@@ -1,9 +1,9 @@
-package com_belovva.o.tests;
+package com_belovva.tests;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
-import com_belovva.o.config.ProjectConfig;
-import com_belovva.o.helpers.AllureAttachments;
-import com_belovva.o.helpers.DriverSettings;
+import com_belovva.config.ProjectConfig;
+import com_belovva.helpers.AllureAttachments;
+import com_belovva.helpers.DriverSettings;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.AfterEach;

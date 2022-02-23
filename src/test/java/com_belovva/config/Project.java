@@ -1,4 +1,4 @@
-package com_belovva.o.config;
+package com_belovva.config;
 
 import org.aeonbits.owner.ConfigFactory;
 

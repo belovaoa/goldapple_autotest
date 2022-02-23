@@ -1,4 +1,4 @@
-package com_belovva.o.helpers;
+package com_belovva.helpers;
 
 import com.codeborne.selenide.Selenide;
 
