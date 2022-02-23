@@ -45,4 +45,6 @@ gradle clean -DremoteDriverUrl=https://%s:%s@selenoid.autotests.cloud/wd/hub/ -D
 
 ## ![Selenoid logo1](https://github.com/belovaoa/goldapple_autotest/blob/main/pictures/Selenoid%20logo1.png) Video in Selenoid
 
-https://github.com/belovaoa/goldapple_autotest/blob/main/pictures/Video1.mp4
+https://user-images.githubusercontent.com/93153268/155363445-f48c1422-56f6-42ff-93eb-759d6bd38e75.mp4
+
+
